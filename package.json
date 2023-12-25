@@ -1,0 +1,10 @@
+{
+  "name": "CDN-Uploader",
+  "version": "1.0.0-alpha",
+  "description": "An Electron App",
+  "main": "main.js",
+  "repository": "https://github.com/ringo360/CDN-Uploader.git",
+  "author": "ringoxd@mcsv.life",
+  "license": "GNU",
+  "private": false
+}
